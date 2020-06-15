@@ -22,7 +22,8 @@ html {
 }
 
 .icon-facebook {
-    background: #2E460E;
+    background: rgb(152, 149, 149);
+    /*background: #2E460E;*/
     /*border-radius: 1rem 0 0 0;*/
 }
 
@@ -31,11 +32,13 @@ html {
 }
 
 .icon-github {
-    background: #E83028;
+    background: rgb(247, 100, 131);
+    /*background: #E83028;*/
 }
 
 .icon-instagrama {
-    background: #3F60A5;
+    background: rgb(64, 120, 206);
+    /*background: #3F60A5;*/
     /*border-radius: 0 0 0 1rem;*/
 }
 
