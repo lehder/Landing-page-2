@@ -58,7 +58,7 @@
      height: 450px;
      object-fit: cover;
      width: auto;
-     border-radius: 3px;
+     border-radius: 50%;
      animation: arriba 1s ease-in;
  }
 
