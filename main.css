@@ -68,8 +68,8 @@ html {
     box-shadow: 0 0 .5rem rgba(0, 0, 0.42);
 }
 
-@media (min-width: 800px) {
+/*@media (min-width: 800px) {
     .container {
         width: 800px;
     }
-}
+}*/
