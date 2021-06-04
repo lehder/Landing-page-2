@@ -9,10 +9,10 @@ html {
     /*font-size: 16px;*/
 }
 
-.container {
+/*.container {
     display: flex;
-    /*flex-wrap: wrap;*/
-}
+    /*flex-wrap: wrap;
+}*/
 
 .social-bar {
     position: fixed;
